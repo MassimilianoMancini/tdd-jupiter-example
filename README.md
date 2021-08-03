@@ -1,1 +1,1 @@
-Example of TDD on both trim and factorial examples using jupiter parameterized test
+Example of TDD on both trim and factorial classes using jupiter parameterized tests
